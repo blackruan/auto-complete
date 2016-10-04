@@ -8,7 +8,7 @@ In this project, I implemented google search auto complete based on N-Gram Model
 * Build N-Gram Library from input.
 * Build Language Model based on N-Gram Library and probability.
 * Load the data of Language Model into MySQL.
-* Utilize JQuery, PHP, Ajx to build auto-complete in web demo.
+* Utilize JQuery, PHP, Ajax to build auto-complete in web demo.
 
 ## Demo
 
